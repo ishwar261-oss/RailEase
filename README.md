@@ -42,3 +42,8 @@ RailEase
 
 
 **RailEase – Travel Smart, Travel Easy. 🚄**
+
+
+## 👨‍💻 Author
+
+**Idz**
