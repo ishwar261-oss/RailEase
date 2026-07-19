@@ -119,10 +119,7 @@ namespace RailEase.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
+
         internal static System.Drawing.Bitmap Screenshot_2026_06_09_194614 {
             get {
                 object obj = ResourceManager.GetObject("Screenshot 2026-06-09 194614", resourceCulture);
